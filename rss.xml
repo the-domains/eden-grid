@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[EDEN GRID]]></title>
+        <description><![CDATA[EDEN GRID]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 18 Aug 2016 03:05:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>EDEN ACOUSTICS PRESENTS A NEW VISION OF THE HIGH-END LOUDSPEAKER </p>]]></description>
+            <link>undefinededen-acoustics-presents-a-new-vision-of-the-high-end-loudspe/index.html</link>
+            <guid isPermaLink="false">c1b55d74-d05b-4e8f-a16e-65c217cf9711</guid>
+            <pubDate>Thu, 18 Aug 2016 03:05:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
